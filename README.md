@@ -1,6 +1,13 @@
-ECSE 324 Computer Origanization - Assembly code for lab in 2019 Fall Semester
+# ECSE 324 Computer Origanization, 2019F
+
+Assembly code for lab
 
 Contributor: @menglin @omar
 
-Lab1: find the max int in the list; calculate the range of a list; calculate the max output of an expression
+- Lab1: Introduction to AMR Programming
+
+- Lab2: Stack, Subroutines and C
+
+- Lab3: Basic I/O, Timers and Interrupts
+- Lab4: High level I/O - VGA, PS/2 Keyboard
 
